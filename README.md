@@ -4,7 +4,6 @@ URL: [ToDoDo aplikacija](https://tododo-6p0v.onrender.com/)
 
 ## Pokretanje:
 ```bash
-cd tododo
 npm i
 npm run dev
 ```
