@@ -7,6 +7,7 @@ URL: [ToDoDo aplikacija](https://tododo-6p0v.onrender.com/)
 cd tododo
 npm i
 npm run dev
+```
 
 ## Svojstva
 
