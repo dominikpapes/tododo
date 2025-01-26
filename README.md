@@ -1,4 +1,4 @@
-# Projekt iz kolegija Napredni razvoj programske potpore za web
+# 5. Projekt iz kolegija Napredni razvoj programske potpore za web - Single Page App u Vue.js
 
 URL: [ToDoDo aplikacija](https://tododo-6p0v.onrender.com/)
 
