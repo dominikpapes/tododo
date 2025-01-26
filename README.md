@@ -46,11 +46,10 @@ npm run dev
     - src/views/NotFoundView.vue  
     - src/router/index.js --> definirane router  
 
-8.1 Komponenta bez stanja  
+8. Komponenta bez stanja
     - da, src/components/NavBar.vue  
     - NavBar ima prop title koji prikazuje naslov aplikacije  
-
-8.2 Komponenta sa stanjem  
+   Komponenta sa stanjem  
     - da, src/components/TaskCounter.vue  
     - stanje se učitava koristeći pinia store  
     - bilježi se koliko je zadataka završeno u trenutnoj sesiji  
